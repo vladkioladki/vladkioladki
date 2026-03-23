@@ -41,10 +41,9 @@
 </div>
 
 ###
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zcj9on0shq68px8wwi8pwd8sy&unique={true|1|on|yes})
 <div align="center">
   <a href="https://open.spotify.com/user/vladki.oladki">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zcj9on0shq68px8wwi8pwd8sy&unique={true|1|on|yes})
   </a>
 </div>
 
