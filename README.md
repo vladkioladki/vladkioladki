@@ -42,10 +42,8 @@
 
 ###
 
-<img 
-  src="https://spotify-recently-played-readme.vercel.app/api?user=zcj9on0shq68px8wwi8pwd8sy&count=1" 
-  style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); width: 400px;"
-  alt="Spotify Recently Played"
->
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zcj9on0shq68px8wwi8pwd8sy&count=1">
+</p>
 
 ###
