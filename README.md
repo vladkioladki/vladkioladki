@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="200" src="https://vladki.eu/assets/kyrgyz.jpg"  />
+/// <img align="left" height="200" src="https://vladki.eu/assets/kyrgyz.jpg"  /> ///
 
 ###
 
@@ -37,11 +37,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
-
-###
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zcj9on0shq68px8wwi8pwd8sy&count=1">
-</p>
 
 ###
