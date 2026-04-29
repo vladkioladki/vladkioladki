@@ -2,7 +2,7 @@
 
 ###
 
-/// <img align="left" height="200" src="https://vladki.eu/assets/kyrgyz.jpg"  /> ///
+<img align="left" height="200" src="https://uploads7.wikiart.org/00155/images/oleksandr-hnylyzkyj/1995-3.jpg!Large.jpg"  />
 
 ###
 
