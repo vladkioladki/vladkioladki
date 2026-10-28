@@ -1,4 +1,4 @@
-<h1 align="center">I'm vladki, I just poke at computers until they do funny things.</h1>
+<h1 align="center">I'm vladki.</h1>
 
 ###
 
